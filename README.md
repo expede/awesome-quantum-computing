@@ -10,6 +10,7 @@ NB: _There will be duplicates!_ If a resource falls under multiple categories, i
 
 # Lists of Lists
 - [Quantum Computing: Selected Internet Resources for Librarians, Researchers, and the Casually Curious](http://www.istl.org/09-spring/internet.html)
+- [Research in Quantum Information](http://www.vcpc.univie.ac.at/~ian/hotlist/qc/research.shtml)
 
 # Wikis
 - [Quantiki](http://www.quantiki.org)
